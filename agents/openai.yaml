@@ -1,0 +1,4 @@
+interface:
+  display_name: "User Guide Delivery"
+  short_description: "Build screenshot user guides with red-box callouts"
+  default_prompt: "Create an external user guide with live screenshots, red-box annotations, and export-ready Markdown, Word, and PDF outputs for the current project."
